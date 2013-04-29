@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EditorServer", "EditorServer\EditorServer.vcxproj", "{E343E31D-8F49-4FDB-9F3A-63668937212A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EditorClient", "EditorClient\EditorClient.vcxproj", "{8BA8EC7E-1C48-4A7A-BE38-C58D8CD671D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E343E31D-8F49-4FDB-9F3A-63668937212A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E343E31D-8F49-4FDB-9F3A-63668937212A}.Debug|Win32.Build.0 = Debug|Win32
+		{E343E31D-8F49-4FDB-9F3A-63668937212A}.Release|Win32.ActiveCfg = Release|Win32
+		{E343E31D-8F49-4FDB-9F3A-63668937212A}.Release|Win32.Build.0 = Release|Win32
+		{8BA8EC7E-1C48-4A7A-BE38-C58D8CD671D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8BA8EC7E-1C48-4A7A-BE38-C58D8CD671D2}.Debug|Win32.Build.0 = Debug|Win32
+		{8BA8EC7E-1C48-4A7A-BE38-C58D8CD671D2}.Release|Win32.ActiveCfg = Release|Win32
+		{8BA8EC7E-1C48-4A7A-BE38-C58D8CD671D2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
